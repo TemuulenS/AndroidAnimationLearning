@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\temuu\Desktop\temuulen\Rocket-Launch-Starter_local\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_609950e701d403f658cad5ef3aefeb2b92944fd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\temuu\Desktop\temuulen\Rocket-Launch-Starter_local\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\temuu\Desktop\temuulen\Rocket-Launch-Starter_local\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_1d1ddf1cf4b781cc1b005375478bade8683a550d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\temuu\Desktop\temuulen\Rocket-Launch-Starter_local\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\temuu\Desktop\temuulen\Rocket-Launch-Starter_local\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_961a2953c0d94a89b4d9630188f66ff5e008e1fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\temuu\Desktop\temuulen\Rocket-Launch-Starter_local\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\temuu\Desktop\temuulen\Rocket-Launch-Starter_local\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_7b2883a127a824b2732d89bcf5edfcfa414dec47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\temuu\Desktop\temuulen\Rocket-Launch-Starter_local\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\temuu\Desktop\temuulen\Rocket-Launch-Starter_local\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_4d0baf5f8fca7ad77a3e23f9f8480b6b5c00d7a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\temuu\Desktop\temuulen\Rocket-Launch-Starter_local\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\temuu\Desktop\temuulen\Rocket-Launch-Starter_local\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_d21ffdf0c2e2b3d695d1abb07f508ca6897bf856.jar" />
+    </item>
+
+</items>
